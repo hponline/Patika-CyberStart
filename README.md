@@ -1,2 +1,3 @@
 # Patika-CyberStart
- IBM ile Kodluyoruz
+ IBM ile Kodluyoruz dersindeki<br>
+ Minimum Öklid hesaplama uygulaması
